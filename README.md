@@ -1,10 +1,24 @@
 # Rust Learning Journey
 
-This repository contains my progress and code as I learn the Rust programming language.
+This repository tracks my progress in learning the Rust programming language.
 
-## Projects
+## Project Structure
 
-- **hello_world**: A simple Hello World program that also includes examples of basic Rust concepts (Variables, Data Types, Functions, Control Flow).
+- `hello_world`: A simple project to get started with Rust syntax and Cargo.
+    - Contains examples for:
+        - Variables and Mutability
+        - Data Types
+        - Functions
+        - Control Flow
+
+## How to Run
+
+Navigate to the project directory and run:
+
+```bash
+cd hello_world
+cargo run
+```
 
 ## Resources
 
